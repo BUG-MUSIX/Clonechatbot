@@ -4,14 +4,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = "21553328"
+API_ID = "23803580"
 # -------------------------------------------------------------
-API_HASH = "3bcc137f124bc8518c30d461986e247b"
+API_HASH = "7d91da02949db09dc81df55532c93863"
 # --------------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7940019678:AAFnZD4f0dM_PPZm9vbmuv_HGPxw6EjGswo")
+BOT_TOKEN = getenv("BOT_TOKEN", "7203514667:AAHNigYBk8WjEMPtFyQ--ZoX7fsAXjgbWRE")
 STRING1 = getenv("STRING_SESSION", None)
-MONGO_URL = getenv("MONGO_URL", "mongodb+srv://oliva:oliva123@cluster0.6cohqfv.mongodb.net/?retryWrites=true&w=majority")
-OWNER_ID = int(getenv("OWNER_ID", "7380417336"))
-SUPPORT_GRP = "UFC_NETWORK"
-UPDATE_CHNL = "UFC_NETWORK"
-OWNER_USERNAME = "UFC_INOCENT"
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://spicychatbot:Nothing0000@cluster0.fspyv8c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+OWNER_ID = int(getenv("OWNER_ID", "7381712992"))
+SUPPORT_GRP = "SpicyxBots"
+UPDATE_CHNL = "SpicyxNetwork"
+OWNER_USERNAME = "NoMoreMaxim"
